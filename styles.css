@@ -52,10 +52,12 @@
 }
 .homepage .content .hello{ 
     font-size: 75px;
+    color: white;
 }
 .homepage .content .hello1{ 
     font-size: 80px;
     font-weight: 600;
+    color: white;
 }
 .hello1 span{
     color: crimson;
